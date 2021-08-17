@@ -1,5 +1,5 @@
 hey im or
-being studying to code web applications for over a year now.
+i have being studying to code web applications for over a year now.
 i control the following tech:
 Javascript
 React
